@@ -32,8 +32,8 @@ export const projectsData = [
     title: 'Robot Searcher',
     info: 'geger',
     info2: 'h5hs5',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://thiagovf1988.github.io/Robot-Searcher/',
+    repo: 'https://github.com/thiagovf1988/Robot-Searcher', // if no repo, the button will not show up
   },
   {
     id: uuidv1(),
@@ -41,8 +41,8 @@ export const projectsData = [
     title: 'Current Average',
     info: '',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://thiagovf1988.github.io/Current-Average/',
+    repo: 'https://github.com/thiagovf1988/Current-Average', // if no repo, the button will not show up
   },
   {
     id: uuidv1(),
@@ -51,7 +51,7 @@ export const projectsData = [
     info: '',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/thiagovf1988/chessai', // if no repo, the button will not show up
   },
 ];
 
