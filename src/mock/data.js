@@ -28,8 +28,8 @@ export const aboutData = {
 export const projectsData = [
   {
     id: uuidv1(),
-    img: 'project.jpg',
-    title: 'gesrge',
+    img: 'rslogo.png',
+    title: 'Robot Searcher',
     info: 'geger',
     info2: 'h5hs5',
     url: '',
@@ -37,8 +37,8 @@ export const projectsData = [
   },
   {
     id: uuidv1(),
-    img: 'project.jpg',
-    title: '',
+    img: 'calogo.png',
+    title: 'Current Average',
     info: '',
     info2: '',
     url: '',
@@ -46,8 +46,8 @@ export const projectsData = [
   },
   {
     id: uuidv1(),
-    img: 'project.jpg',
-    title: '',
+    img: 'cailogo.png',
+    title: 'Chess AI',
     info: '',
     info2: '',
     url: '',
@@ -57,7 +57,7 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: 'Below you find my e-mail address and my social media pages',
+  cta: 'Below you will find my e-mail address and my social media pages',
   btn: 'E-mail',
   email: 'thiagovf.eng@gmail.com',
 };
