@@ -3,24 +3,24 @@ import uuidv1 from 'uuid/v1';
 // HEAD DATA
 export const headData = {
   title: 'ssssss', // e.g: 'Name | Developer'
-  lang: '', // e.g: en, es, fr, jp
-  description: '', // e.g: Welcome to my website
+  lang: '6hty', // e.g: en, es, fr, jp
+  description: 'erw', // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
-  title: '',
-  name: '',
-  subtitle: '',
-  cta: '',
+  title: 'ss',
+  name: 'dd',
+  subtitle: '33',
+  cta: '222',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphOne: 'sgegerg',
+  paragraphTwo: 'sge5ges',
+  paragraphThree: 'sge5ges',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
@@ -29,9 +29,9 @@ export const projectsData = [
   {
     id: uuidv1(),
     img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
+    title: 'gesrge',
+    info: 'geger',
+    info2: 'h5hs5',
     url: '',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
@@ -57,9 +57,9 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: '',
-  btn: '',
-  email: '',
+  cta: 'tjhnw45',
+  btn: '4h55',
+  email: 'h5h5',
 };
 
 // FOOTER DATA
