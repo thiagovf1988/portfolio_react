@@ -50,7 +50,7 @@ export const projectsData = [
     title: 'Chess AI',
     info: '',
     info2: '',
-    url: '',
+    url: 'https://thiagovf1988.github.io/chessai/',
     repo: 'https://github.com/thiagovf1988/chessai', // if no repo, the button will not show up
   },
 ];
