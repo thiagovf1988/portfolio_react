@@ -3,7 +3,7 @@ import uuidv1 from 'uuid/v1';
 // HEAD DATA
 export const headData = {
   title: 'Thiago Fernandes | Portfolio', // e.g: 'Name | Developer'
-  lang: 'en', // e.g: en, es, fr, jp
+  lang: 'en', // e.g: en, es, fr, jps
   description: 'Welcome to my website', // e.g: Welcome to my website
 };
 
