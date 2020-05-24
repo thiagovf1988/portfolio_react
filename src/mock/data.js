@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'My name is Thiago. I am a Full stack developer with a engineer degree.',
   paragraphTwo: 'My recent jobs were focused on engineer projects for major companies in the UK. I have worked coding since college with different languages and purposes. Check below some of my recent websites. ',
   paragraphThree: 'Also, feel free to contact me anytime.',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://docs.google.com/document/d/1sSNo4wCg6s-oIVs9Z8usCRS8sZodqy3hexVdvi2f1vM/edit?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
