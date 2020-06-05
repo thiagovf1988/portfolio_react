@@ -179,7 +179,7 @@ export const footerData = {
     {
       id: uuidv1(),
       name: 'twitter',
-      url: '', // your twitter url
+      url: 'https://twitter.com/ThiagoVieiraFe3', // your twitter url
     },
     {
       id: uuidv1(),
