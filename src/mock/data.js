@@ -31,10 +31,10 @@ export const projectsData = [
   {
     id: uuidv1(),
     img: 'rslogo.png',
-    title: 'Robot Searcher2',
-    info: 'A simple searcher of robots.2',
+    title: 'Udemy Course',
+    info: 'Project Manager: From zero to hero',
     info2:
-      'A React app managed through npm and deployed on Github. The code organizes the components, containers and error handling.  It uses JavaScript, HTML5, CSS3, and JSON on its script. The user interaction is achieved through a One-way data flow where the parents components feed their children with the State and get the properties from them. ',
+      'Course on Project Manager to cover the topics: 1- Survey; 2- Design; 3- Manufacture; 4- Delivery; 5- Install; 6-Test; 7- Finances. These topics will build a basic knowledge to make you be prepared to work with many types of challenges that the engineer face in this area.',
     url: 'https://thiagovf1988.github.io/Robot-Searcher/',
     repo: 'https://github.com/thiagovf1988/Robot-Searcher', // if no repo, the button will not show up
   },
