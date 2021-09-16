@@ -31,6 +31,16 @@ export const projectsData = [
   {
     id: uuidv1(),
     img: 'rslogo.png',
+    title: 'Robot Searcher2',
+    info: 'A simple searcher of robots.2',
+    info2:
+      'A React app managed through npm and deployed on Github. The code organizes the components, containers and error handling.  It uses JavaScript, HTML5, CSS3, and JSON on its script. The user interaction is achieved through a One-way data flow where the parents components feed their children with the State and get the properties from them. ',
+    url: 'https://thiagovf1988.github.io/Robot-Searcher/',
+    repo: 'https://github.com/thiagovf1988/Robot-Searcher', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
+    img: 'rslogo.png',
     title: 'Robot Searcher',
     info: 'A simple searcher of robots.',
     info2:
